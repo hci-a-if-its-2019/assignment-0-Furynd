@@ -12,7 +12,7 @@ NRP  : 05111740000124
 
 - - - -  
 
-#1. SIAKAD ITS
+1. SIAKAD ITS
 ------------------------------------------
 
 ![ITS academic system 1](src/siakad1.png)
@@ -29,7 +29,7 @@ That "__*Info Lainnya*__" is somewhat annoying.
 
 - - - -  
 
-#2. Libre Office
+2. Libre Office
 ---------------------------------------------
 
 ![Libre Office](src/libre.png)
@@ -38,7 +38,7 @@ The toolbar for each product of Libre office is nearly equal as which is shown i
 
 - - - -  
 
-#3. Ubuntu Window
+3. Ubuntu Window
 ---------------------------------------------
 
 ![Ubuntu Window](src/window.png)
