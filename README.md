@@ -7,8 +7,8 @@ NRP  : 05111740000124
 
 # __Contents__
 [1. SIAKAD ITS](#1SIAKAD-ITS)  
-[2. LibreOffice](#2Libre-Office)  
-[3. Linux Window](#3Linux-Window)  
+[2. Libre Office](#2Libre-Office)  
+[3. Ubuntu Window](#3Ubuntu-Window)  
 
 - - - -  
 
