@@ -12,12 +12,11 @@ NRP  : 05111740000124
 
 - - - -  
 
-#1. SIAKAD ITS#
-------------------------------------------
+##1. SIAKAD ITS##
 
 ![ITS academic system 1](src/siakad1.png)
 
-In the navigation bar of ITS's Academic System, there are feature of choosing Access Privilage, and dropdown menu to choose Faculty and Departement. Those features is clearly ***useless***, because we as a student can only have one faculty and departement at a time. I don't know whether lecturers can assigned in multiple faculty and departement or not, but atleast it is better if those feature is disabled or hidden in student access privilage mode.
+In the navigation bar of ITS's Academic Information System, there are feature of choosing Access Privilage, and dropdown menu to choose Faculty and Departement. Those features is clearly ***useless***, because we as a student can only have one faculty and departement at a time. I don't know whether lecturers can assigned in multiple faculty and departement or not, but atleast it is better if those feature is disabled or hidden in student access privilage mode.
 
 ![ITS academic system 2](src/siakad2.png)
 
@@ -25,21 +24,19 @@ That "*belum melakukan persetujuan terhadap FRS anda*" warning is always there r
 
 ![ITS academic system 3](src/siakad3.png)
 
-That "__*Info Lainnya*__" is somewhat annoying.
+That "___Info Lainnya___" is somewhat annoying.
 
 - - - -  
 
-#2. Libre Office#
----------------------------------------------
+##2. Libre Office##
 
 ![Libre Office](src/libre.png)
 
-The toolbar for each product of Libre office is nearly equal as which is shown in the picture above. There is no clear grouping or labelling text to describe those many buttons. I think it is easier to use if the tools is organized more clearly using label, group, or put in several tabs as in M*crosoft Office.
+The toolbar for each product of Libre Office is nearly equal as which is shown in the picture above. There is no clear grouping or labelling text to describe those many buttons. I think it is easier to use if the tools is organized more clearly using label, group, or put in several tabs as in M*crosoft Office.
 
 - - - -  
 
-#3. Ubuntu Window#
----------------------------------------------
+##3. Ubuntu Window##
 
 ![Ubuntu Window](src/window.png)
 
