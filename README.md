@@ -6,9 +6,9 @@ NRP  : 05111740000124
 ------------------------------------
 
 # __Contents__
-[1. SIAKAD ITS](#1-SIAKAD-ITS)  
-[2. LibreOffice](#2-Libre-Office)  
-[3. Linux Window](#3-Linux-Window)  
+[1. SIAKAD ITS](#1SIAKAD-ITS)  
+[2. LibreOffice](#2Libre-Office)  
+[3. Linux Window](#3Linux-Window)  
 
 - - - -  
 
@@ -38,8 +38,8 @@ The toolbar for each product of Libre Office is nearly equal as which is shown i
 
 - - - -  
 
-3.Ubuntu Window 
----------------------------------------------------
+3.Ubuntu Window
+-------------------------
 
 ![Ubuntu Window](src/window.png)
 
